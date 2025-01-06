@@ -67,7 +67,9 @@ console.log(48 == '48');
 let animal = "cow"
 
 if (animal === "cow") {
-    console.log("mooooo");
+    console.log("mooooo");   
+} else {
+    console.log("Hey! You're not a cow.");
     
 }
 
